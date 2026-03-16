@@ -1,1 +1,1 @@
-# OmniMMSI
+# OmniMMSI [CVPR 2026]
